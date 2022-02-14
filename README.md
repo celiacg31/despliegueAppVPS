@@ -10,3 +10,4 @@ Las tarea ha sido realizada por los tres miembros de forma simultánea en cuanto
   -La composición final de la documentación de la tarea ha sido realizada por Eresma.  
   
 ## Planificación
+captura1.PNG
