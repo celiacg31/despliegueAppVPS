@@ -10,4 +10,4 @@ Las tarea ha sido realizada por los tres miembros de forma simultánea en cuanto
   -La composición final de la documentación de la tarea ha sido realizada por Eresma.  
   
 ## Planificación
-captura1.PNG
+![](https://github.com/celiacg31/despliegueAppVPS/blob/3229fc954886641148f3c1b918a1f948bbac8d29/captura1.PNG)
