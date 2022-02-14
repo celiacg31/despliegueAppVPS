@@ -9,5 +9,5 @@ Las tarea ha sido realizada por los tres miembros de forma simultánea en cuanto
   -La recopilación de comandos ha sido recogida por Jennifer, siguiendo los videotutoriales aportados para la tarea.  
   -La composición final de la documentación de la tarea ha sido realizada por Eresma.  
   
-## Planificación
-![](https://github.com/celiacg31/despliegueAppVPS/blob/3229fc954886641148f3c1b918a1f948bbac8d29/captura1.PNG)
+## Planificación)
+![](https://github.com/celiacg31/despliegueAppVPS/blob/275d054ae5299cad1459101b92ec8a5c00e11501/captura1.PNG)
