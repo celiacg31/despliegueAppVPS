@@ -27,7 +27,7 @@ https://www.loom.com/share/dab4b1bf71044efb91755f93c119d938
 
 
 
-
+### Parte Frontend con angular
 
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/c155e5379f0c8b159e9606d4f1d988cc602302d8/Im%C3%A1genes/01.PNG)
 
