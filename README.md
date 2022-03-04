@@ -29,10 +29,29 @@ https://www.loom.com/share/dab4b1bf71044efb91755f93c119d938
 
 
 
-
-
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/c155e5379f0c8b159e9606d4f1d988cc602302d8/Im%C3%A1genes/01.PNG)
 
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/c155e5379f0c8b159e9606d4f1d988cc602302d8/Im%C3%A1genes/02.PNG)
 
-![]https://github.com/celiacg31/despliegueAppVPS/blob/c155e5379f0c8b159e9606d4f1d988cc602302d8/Im%C3%A1genes/03.PNG)
+![](https://github.com/celiacg31/despliegueAppVPS/blob/c155e5379f0c8b159e9606d4f1d988cc602302d8/Im%C3%A1genes/03.PNG)
+
+![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/04.PNG)
+
+![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/05.PNG)
+
+![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/06.PNG)
+
+![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/07.PNG)
+
+![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/08.PNG)
+
+![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/09.PNG)
+
+![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/10.PNG)
+
+![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/11.PNG)
+
+![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/12.PNG)
+
+![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/13.PNG)
+
