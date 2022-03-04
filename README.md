@@ -46,13 +46,13 @@ Creamos una copia de seguridad de los archivos y editamos los archivos 000-defau
 
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/c155e5379f0c8b159e9606d4f1d988cc602302d8/Im%C3%A1genes/02.PNG)
 
-
-
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/05.PNG)
 
-![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/06.PNG)
+Configuro el spring para que sea un modo seguro creando un certificado
 
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/d7b9a4fce4c4f59c042f3f3f429fbc2230ac7caa/Im%C3%A1genes/07.png)
+
+![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/06.PNG)
 
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/d7b9a4fce4c4f59c042f3f3f429fbc2230ac7caa/Im%C3%A1genes/08.png)
 
