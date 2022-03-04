@@ -12,3 +12,6 @@ Las tarea ha sido realizada por los tres miembros de forma simultánea en cuanto
   
 ## Planificación)
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/275d054ae5299cad1459101b92ec8a5c00e11501/captura1.PNG)
+
+##Vídeo explicativo de la tarea
+https://www.loom.com/share/dab4b1bf71044efb91755f93c119d938
