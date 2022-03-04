@@ -45,17 +45,22 @@ Le damos permisos para poder verlo en el navegador con sudo chmod -R 755 /var/ww
 
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/06.PNG)
 
-![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/07.PNG)
+![](https://github.com/celiacg31/despliegueAppVPS/blob/d7b9a4fce4c4f59c042f3f3f429fbc2230ac7caa/Im%C3%A1genes/07.png)
 
-![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/08.PNG)
+![](https://github.com/celiacg31/despliegueAppVPS/blob/d7b9a4fce4c4f59c042f3f3f429fbc2230ac7caa/Im%C3%A1genes/08.png)
 
-![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/09.PNG)
+![](https://github.com/celiacg31/despliegueAppVPS/blob/d7b9a4fce4c4f59c042f3f3f429fbc2230ac7caa/Im%C3%A1genes/09.png)
 
-![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/10.PNG)
+![](https://github.com/celiacg31/despliegueAppVPS/blob/d7b9a4fce4c4f59c042f3f3f429fbc2230ac7caa/Im%C3%A1genes/10.png)
 
-![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/11.PNG)
+![](https://github.com/celiacg31/despliegueAppVPS/blob/d7b9a4fce4c4f59c042f3f3f429fbc2230ac7caa/Im%C3%A1genes/11.png)
 
-![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/12.PNG)
+![](https://github.com/celiacg31/despliegueAppVPS/blob/d7b9a4fce4c4f59c042f3f3f429fbc2230ac7caa/Im%C3%A1genes/12.png)
 
-![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/13.PNG)
+![](https://github.com/celiacg31/despliegueAppVPS/blob/d7b9a4fce4c4f59c042f3f3f429fbc2230ac7caa/Im%C3%A1genes/13.png)
+
+
+
+
+
 
