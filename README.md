@@ -1,4 +1,5 @@
-# despliegueAppVPS
+# Tarea FTP - despliegue de aplicación en VPS
+
 Despliegue de aplicación Full Stack en VPS
 
 >Trabajo realizado por Jennifer Diez, Eresma Ibañez y Celia Corrales
