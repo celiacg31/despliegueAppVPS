@@ -35,11 +35,18 @@ Desde el visual studio code modificamos los archivos que vamos a subir, eliminam
 
 Le damos permisos para poder verlo en el navegador con sudo chmod -R 755 /var/www/html 
 
-![](https://github.com/celiacg31/despliegueAppVPS/blob/c155e5379f0c8b159e9606d4f1d988cc602302d8/Im%C3%A1genes/02.PNG)
 
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/c155e5379f0c8b159e9606d4f1d988cc602302d8/Im%C3%A1genes/03.PNG)
 
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/04.PNG)
+
+Configuramos el servidor apache para que soporte SSL, habilitamos el modo ssl, reiniciamos
+
+Creamos una copia de seguridad de los archivos y editamos los archivos 000-default.conf y apache2.conf, los habilitamos y reiniciamos.
+
+![](https://github.com/celiacg31/despliegueAppVPS/blob/c155e5379f0c8b159e9606d4f1d988cc602302d8/Im%C3%A1genes/02.PNG)
+
+
 
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/e5be48e9cce8b9aa7d5baa51545928a8b836ea82/Im%C3%A1genes/05.PNG)
 
