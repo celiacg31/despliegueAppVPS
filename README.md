@@ -33,11 +33,7 @@ Instalamos un servidor apache
 
 Desde el visual studio code modificamos los archivos que vamos a subir, eliminamos la carpeta de dist para volver a generarla con ng build --prod, una vez generado, me conecto en filezilla me sitúo en /var/www/html , selecciono todos los archivos del dist y los subo.
 
-
-
-
-
-![](https://github.com/celiacg31/despliegueAppVPS/blob/c155e5379f0c8b159e9606d4f1d988cc602302d8/Im%C3%A1genes/01.PNG)
+Le damos permisos para poder verlo en el navegador con sudo chmod -R 755 /var/www/html 
 
 ![](https://github.com/celiacg31/despliegueAppVPS/blob/c155e5379f0c8b159e9606d4f1d988cc602302d8/Im%C3%A1genes/02.PNG)
 
